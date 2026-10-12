@@ -44,7 +44,7 @@ The dataset contains Airbnb listing and review information used to analyze listi
 Dashboard screenshots can be added to this repository so visitors can preview the report without opening Power BI.
 
 ```markdown
-![Overview Dashboard](screenshots/overview.png)
+[![Overview Dashboard](https://github.com/4yadavnikita/Airbnb-Dashboard/blob/main/Overview_airbnb.png?raw=true)](https://github.com/4yadavnikita/Airbnb-Dashboard/blob/main/Overview_airbnb.png?raw=true)
 ![Ratings Dashboard](screenshots/ratings.png)
 ![Reviews Dashboard](screenshots/reviews.png)
 ```
