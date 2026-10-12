@@ -46,7 +46,7 @@ Dashboard screenshots can be added to this repository so visitors can preview th
 ```markdown
 [![Overview Dashboard](https://github.com/4yadavnikita/Airbnb-Dashboard/blob/main/Overview_airbnb.png?raw=true)](https://github.com/4yadavnikita/Airbnb-Dashboard/blob/main/Overview_airbnb.png?raw=true)
 [![Rating Dashboard](https://github.com/4yadavnikita/Airbnb-Dashboard/blob/main/Rating_airbnb.png?raw=true)]https://github.com/4yadavnikita/Airbnb-Dashboard/blob/main/Rating_airbnb.png?raw=true
-[![Reviews Dashboard](https://github.com/4yadavnikita/Airbnb-Dashboard/blob/main/Reviews_airbnb.png?raw=true)]
+[![Reviews Dashboard](https://github.com/4yadavnikita/Airbnb-Dashboard/blob/main/Reviews_airbnb.png?raw=true)]https://github.com/4yadavnikita/Airbnb-Dashboard/blob/main/Reviews_airbnb.png?raw=true
 ```
 
 ## 📁 Repository Contents
